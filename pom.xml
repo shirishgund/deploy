@@ -68,7 +68,7 @@
 
 
     <dependencies>
-      <!--  <dependency>
+       <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-compatibility-server</artifactId>
             <version>${vaadin.version}</version>
@@ -87,7 +87,7 @@
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-themes</artifactId>
             <version>${vaadin.version}</version>
-        </dependency> --> 
+        </dependency> 
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
